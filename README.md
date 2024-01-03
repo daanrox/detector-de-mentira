@@ -1,6 +1,6 @@
 # Detector de Mentira
 
-![Detector de Mentira](frontend/front_example.jpg)
+![Detector de Mentira](front_example.jpg)
 
 ## Descrição
 Este projeto foi desenvolvido para minha filha de 7 anos, que me solicitou. Inclusive fizemos juntos em um momento bastante agradável.
