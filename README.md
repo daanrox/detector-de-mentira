@@ -7,7 +7,7 @@ Este projeto foi desenvolvido para minha filha de 7 anos, que me solicitou. Incl
 A aplicação ainda não está funcionando como espera-se, vamos terminar em breve.
 
 ### Deploy
-Aplicação em produção: [https://contactlist-silk.vercel.app](https://contactlist-silk.vercel.app)
+Aplicação em produção: [https://detector-de-mentira-fj3mx9ts8-daanrox.vercel.app](https://detector-de-mentira-fj3mx9ts8-daanrox.vercel.app)
 
 ## Tecnologias Utilizadas
 <div>
