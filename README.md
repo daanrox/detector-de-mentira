@@ -1,8 +1,51 @@
-# React + Vite
+# Detector de Mentira
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Detector de Mentira](frontend/front_example.jpg)
 
-Currently, two official plugins are available:
+## Descrição
+Este projeto foi desenvolvido para minha filha de 7 anos, que me solicitou. Inclusive fizemos juntos em um momento bastante agradável.
+A aplicação ainda não está funcionando como espera-se, vamos terminar em breve.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Deploy
+Aplicação em produção: [https://detector-de-mentira-fj3mx9ts8-daanrox.vercel.app](https://detector-de-mentira-fj3mx9ts8-daanrox.vercel.app)
+
+## Tecnologias Utilizadas
+<div>
+  <img align="center" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+</div>
+
+## Funcionalidades
+- **Simulação através do toque:** Utilizamos um leitor fictício de digital para detectar a mentira.
+- **Truque secreto:** Minha filha solicitou um truque para que ela possa manipular o resultado e trollar os amigos, ainda será implementado.
+
+
+
+## Executando o Projeto
+
+### Pré-requisitos
+Certifique-se de ter o Node.js instalado.
+
+### Instalação das Dependências
+No terminal, execute o seguinte comando para instalar as dependências:
+
+```bash
+npm install
+```
+### Rodando o Projeto
+Para iniciar o projeto, utilize o comando:
+
+```bash
+npm run dev
+```
+
+Isso iniciará a aplicação Vite em modo de desenvolvimento.
+
+## Contato
+Se tiver dúvidas ou precisar de mais informações, sinta-se à vontade para entrar em contato:
+- Email : [contato@daanrox.com](mailto:contato@daanrox.com)
+- LinkedIn: [https://www.linkedin.com/in/daanrox/](Daanrox)
+
+--- 
+
+Este projeto foi desenvolvido em um momento de recreação com minha filha de 7 anos.
